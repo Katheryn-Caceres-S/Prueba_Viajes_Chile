@@ -6,5 +6,5 @@
   const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
   $("#btn").click(function(){
-    alert("Correo Enviado correctamente")
+    alert("Correo Enviado correctamente. Pronto te contactaremos en respuesta a tu Mensaje.")
 });
