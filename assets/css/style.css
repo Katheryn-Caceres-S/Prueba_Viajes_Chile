@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Crafty+Girls&family=Lilita+One&family=Lobster&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,100..900;1,100..900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    font-family: cabin;
+}
+
+.porta-icono {
+    background-color: #000;       /* Fondo negro */
+    color: #fff;                  /* Texto blanco */
+    padding: 1.5rem;
+    text-align: justify;          /* Texto justificado */
+    border-radius: 0.5rem;
+    max-width: 400px;
+    margin: auto;
+  }
+
+  .info-header {
+    background-color: #00bfff;    /* Azul celeste */
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
